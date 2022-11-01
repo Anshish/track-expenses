@@ -1,0 +1,12 @@
+.transactions-count{
+    box-shadow: 0 0 2px;
+    padding: 15px;
+    border-radius: 10px;
+    color:rgb(82, 77, 77);
+}
+.analatics h4{
+    font-size: 25px;
+}
+.analatics h5{
+    font-size: 20px;
+}

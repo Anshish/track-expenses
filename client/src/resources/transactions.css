@@ -1,0 +1,25 @@
+.filter{
+    box-shadow: 0 0 3px gray;
+    padding: 10px 20px ;
+    border-radius: 10px;
+}
+
+.transaction-form label{
+    color: rgb(0, 0, 0) !important;
+}
+
+.view-switch{
+    border: 1px solid transparent;
+    padding: 5px 10px;
+}
+
+.anticon-svg{
+    font-size: 20px;
+    cursor: pointer;
+}
+.actice-icon{
+    color: black;
+}
+.inactive-icon{
+    color: grey;
+}

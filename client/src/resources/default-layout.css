@@ -1,0 +1,51 @@
+.outer {
+  background-color: #ffffffd0;
+}
+
+.layout {
+  margin: 0 100px;
+}
+
+.header {
+  background-color: #29347c;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.logo {
+  font-size: 35px;
+  margin: 0;
+  margin-left: 20px;
+  color: #f1dca9;
+}
+
+.username {
+  font-size: 20px;
+  color: #ffd369;
+}
+
+.content {
+  height: 85vh;
+  box-shadow: 0 0 3px #7a7ea2;
+  margin-top: 20px;
+  border-radius: 25px;
+  padding: 15px;
+  background-color: #e3e4f0;
+}
+
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.ant-spin-dot-item {
+  background-color: grey !important;
+}
+
+@media screen and (max-width: 700px) {
+  .layout {
+    margin: 0 15px;
+  }
+}
